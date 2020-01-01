@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.top-container {
+    background-color: #E0EBE8;
+    position: relative;
+    padding-top: 1px;
+}
+
+h1 {
+    margin-top: 100px;
+    font-family: 'Stalemate', cursive;
+    font-size: 8.125rem;
+    font-weight: 400;
+    color: #4AB19A;
+}
+
+h2 {
+    color: #4AB19A;
+    font-family: 'Poiret One', cursive;
+    font-stretch: extra-expanded;
+    font-size: 30px;
+}
+
+h3 {
+    color: #4AB19A;
+    font-family: 'Poiret One', cursive;
+    font-stretch: ultra-expanded;
+    font-size: 25px;
+}
+
+p {
+    font-family: raleway;
+    line-height: 2;
+}
+
+a {
+    font-family: raleway;
+    line-height: 2;
+    margin: 10px 20px;
+    text-decoration: none;
+    color: rgb(67, 67, 134);
+
+}
+
+a:hover {
+    color: white;
+}
+
+.subtitle {
+    font-family: 'Poiret One', cursive;
+    font-size: 2rem;
+    font-weight: 500;
+    font-stretch: extra-expanded;
+    bottom: 110px;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+    bottom: 400px;
+}
+
+.web-development-image {
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+
+.digital-marketing-image {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 60%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+}
+
+.middle-container {
+    margin-top: 50px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 30%;
+    margin: 40px auto 60px;
+}
+
+hr {
+    width: 4%;
+    border: dotted rgb(161, 155, 155) 6px;
+    border-bottom: none;
+    margin: 50px auto;
+}
+
+.btn {
+    box-shadow: 0px 10px 14px -7px #276873;
+    background: linear-gradient(to bottom, #95d8f0 5%, #2bd3ed 100%);
+    background-color: #95d8f0;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: raleway;
+    font-size: 16px;
+    padding: 5px 32px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #3d768a;
+    margin-bottom: 80px;
+}
+
+.bottom-container {
+    background-color: #95d8f0;
+    padding: 50px 0 20px;
+}
+
+.copyright {
+    color: rgb(67, 67, 134);
+    font-size: 0.85rem;
+}
