@@ -102,6 +102,11 @@ a:hover {
     margin: 40px auto 60px;
 }
 
+.hireme-message {
+    width: 60%;
+    margin: 40px auto 60px;
+}
+
 hr {
     width: 4%;
     border: dotted rgb(161, 155, 155) 6px;
